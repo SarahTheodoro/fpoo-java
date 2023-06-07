@@ -1,0 +1,95 @@
+
+
+body{
+    background-color: rgb(97, 45, 146);
+    text-align: center;
+    font-family: Bruh Script ;
+      font-style: oblique;
+      
+    
+  
+  }
+
+  
+  
+  
+
+  a:hover {
+    color: rgb(38, 2, 57);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:link, a:visited {
+    background-color: #7b1381;
+    font-family: serif;
+    color: rgb(217, 227, 229);
+    padding: 40px 300px;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px 100px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    display: inline-block;
+    width: 250px;
+    border: 6px solid rgb(139, 62, 193);
+  
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(67, 16, 78);
+  }
+  div{
+    display: flex;
+    justify-content: center;
+    float: center;
+  }
+  
+   .music {
+    background-color: rgba(108, 17, 82, 0.685);
+    color: white;
+    border: 10px solid rgb(169, 26, 40);
+    margin: 100px;
+    padding: 100px;
+    }
+  
+  footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%
+      background-color:
+   
+      color: pink
+  text: center
+   }
+   a:link {
+    color: rgb(233, 127, 201);
+    background-color: transparent;
+    text-decoration: none;
+  
+   }
+   a:visited {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+   }
+  
+   a:hover {
+    color: rgb(38, 2, 57);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:link, a:visited {
+    background-color: #7b1381;
+    color: rgb(255, 255, 255);
+    padding: 20px 89px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(67, 16, 78);
+  }
+  
